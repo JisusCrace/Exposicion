@@ -14,7 +14,7 @@ class AppABB:
     """
 
 
-    def __init__(self, n = 1000, factor = 10, m = 10):
+    def __init__(self, n = 1000, factor = 10, ):
         """
         Método constructor que fija el tamaño del ABB (n), el valor máximo que
         almacenará el ABB y el número de búsquedas que realizará (m).
